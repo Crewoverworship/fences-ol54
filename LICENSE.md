@@ -1,4 +1,4 @@
-# 
+# automatic Advanced SystemCare PC版 扩展 是最佳 Advanced SystemCare PC版 扩展，集成 磁盘碎片整理 和 自动排列。安全、可靠、优化，性能最大化。
 
 
 
